@@ -25,9 +25,6 @@ public class DockerSpringBootDemoApplication {
 		logger.info("Application is started");
 	}
 
-
-
-
 	public static void main(String[] args) {
 		logger.info("Application is executed");
 		SpringApplication.run(DockerSpringBootDemoApplication.class, args);
