@@ -1,6 +1,5 @@
 package com.docker.spring.boot.demo;
 
-import com.docker.spring.boot.demo.rest.MyController;
 import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
